@@ -1,0 +1,29 @@
+config:
+  tick_time: 1
+  image_dir: images
+  log_device: STDOUT
+  debug: true
+  forked: false
+
+screens:
+  a1:
+  a2:
+  a3:
+  a4:
+
+images:
+  ad1:
+    file: add1.png
+    duration: 2
+  ad2:
+    file: add2.png
+    duration: 6
+  ad3:
+    file: add3.png
+    duration: 2
+  ad4:
+    file: add4.png
+    duration: 6
+  ad5:
+    file: add5.png
+    duration: 2
